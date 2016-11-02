@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package com.test.proto;
+
+option java_package = "com.test.proto";
+option java_outer_classname = "SearchProtos";
+option java_multiple_files = true;
+
+message Search {
+    string name = 1;
+}
