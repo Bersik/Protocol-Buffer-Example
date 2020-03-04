@@ -1,4 +1,4 @@
-# Test-Task-Protocol-Buffers
+# Protocol-Buffer-Example
 Server side:
 - Java 1.8;
 - Tomcat 9.0.0.M1;
